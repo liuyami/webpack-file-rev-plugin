@@ -1,0 +1,9 @@
+{
+  "name": "webpack-file-rev-plugin",
+  "version": "0.0.2",
+  "main": "index.js",
+  "repository": "git@github.com:liuyami/webpack-file-rev-plugin.git",
+  "homepage": "https://github.com/liuyami/webpack-file-rev-plugin",
+  "author": "Yami <evila@qq.com>",
+  "license": "MIT"
+}
