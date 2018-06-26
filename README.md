@@ -1,0 +1,1 @@
+# webpack-file-rev-plugin
